@@ -5,7 +5,7 @@ percentage = 56.36
 is_active = False
 
 
-print("my name is "+name)
+print("my name is ")
 #Arithmatic Operation
 #addition
 print(  10 + 4)

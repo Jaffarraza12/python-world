@@ -1,7 +1,18 @@
-age = "18" 
+age = 18 
+is_active = True
+email = "jaffaraza@live.com"
+
+if age == 20 and email == "jaffaraza@live.com" and is_active :
+   print("user is active")
+else:
+   print("user is not active")   
+#TypeError: '>=' not supported between instances of 'str' and 'int'
 
 
-if age == 18:
-   print("test")
-elif age == "18":
-   print("passed")
+# greater than >
+# less than <
+# equal ==
+# not equal != 
+# greater than and equal  >=
+
+
